@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: NSXT Blog
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: NSXT
+subtitle: "I am SungHoon Ko. NSXT means trade-mark of my company."
 email: nsxt@outlook.com
 name: SungHoon Ko
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  I am SungHoon Ko. NSXT means trade-mark of my company.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -51,7 +51,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: ctci 
+  - cat: ctci
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 # Social icons and sharing options
@@ -75,14 +75,14 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url:
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
@@ -96,7 +96,7 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
