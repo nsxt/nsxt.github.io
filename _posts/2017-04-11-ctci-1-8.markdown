@@ -1,0 +1,8 @@
+---
+layout: post
+title: "CTCI Questions 1.8 (Array and String)"
+date: 2017-04-11 21:53:00
+author: SungHoon Ko
+categories: CTCI
+tags: ctci algorithm ch1
+---
