@@ -6,3 +6,5 @@ author: SungHoon Ko
 categories: CTCI
 tags: ctci algorithm ch1
 ---
+
+#### 1.8 한 단어가 다른 단어에 포함된 문자열인지 판별하는 isSubstring 이라는 메서드가 있다고 하자. s1 과 s2 의 두 문자열이 주어졌을 때, s2 가 s1 을 회전시킨 결과인지 판별하는 코드를 isSubstring 을 한 번만 호출 하도록 하여 작성하여라. (가령 'waterbottle' 은 'erbottlewat' 을 회전시켜 얻을 수 있는 문자열이다.)
