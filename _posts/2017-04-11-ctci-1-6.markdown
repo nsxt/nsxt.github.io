@@ -7,4 +7,14 @@ categories: CTCI
 tags: ctci algorithm ch1
 ---
 
-#### 1.6 이미지를 표현하는 N * N 행렬이 있다. 이미지의 각 픽셀은 4 바이트로 표현된다. 이때, 이미지를 90도 회전시키는 메서드를 작성하라. 부가적인 행렬을 사용하지 않고도서도 할 수 있겠는가?
+#### 1.6 Given an image represented by an N * N matrix, where each pixel in the image is 4 bytes, write a method to rotate the image by 90 degrees. Can you do this in place?
+
+#### 1.6 이미지를 표현하는 N * N 행렬이 있다. 이미지의 각 픽셀은 4 바이트로 표현된다. 이때, 이미지를 90도 회전시키는 메서드를 작성하라. 부가적인 행렬을 사용하지 않고서도 할 수 있겠는가?
+
+---
+
+행렬을 그냥 회전하는 것은 아무것도 아닌데... 부가적인 행렬을 사용하지 않으려면...
+아주 유심히 보아야 한다. 그래서 보지말아야 되는 것을 보아 버렸다. ㅋㅋ
+아주 조금 보았다.
+
+이런 문제를 고민할때는 회전 결과, 즉 문제의 결과를 최소한 두 케이스 이상 노트에 적어놓은 후 어떤규칙이 만들어지는지를 고민해보아야 한다.
